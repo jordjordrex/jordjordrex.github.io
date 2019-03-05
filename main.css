@@ -6,8 +6,8 @@
   left: 50%;
 }
 .content {
-  max-width: 500px;
+  max-width: 1024px;
   margin: auto;
   background: white;
-  padding: 10px;
+  padding: 50px;
 }
