@@ -6,12 +6,14 @@
   left: 50%;
   bottom: 0;
 }
+
 .content {
   max-width: 1024px;
   margin: auto;
   background: white;
   padding: 50px;
 }
+
 .image {
   height: 25%;
   width: 25%;
