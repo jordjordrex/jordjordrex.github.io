@@ -20,7 +20,8 @@
 }
 .column {
   float: left;
-  width: 30%;
+  height: 350px;
+  width: 350px;
   padding: 5px;
 }
 .row::after {
